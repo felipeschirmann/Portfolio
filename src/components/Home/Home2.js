@@ -97,7 +97,7 @@ function Home2() {
 
               <li className="social-icons">
                 <a
-                  href="https://api.whatsapp.com/send/?phone=5527992790505&text=Olá%2C+vi+o+seu+curriculo+e+quero+conversar.&type=phone_number&app_absent=0"
+                  href="https://api.whatsapp.com/send/?phone=5527999184504&text=Olá%2C+vi+o+seu+curriculo+e+quero+conversar.&type=phone_number&app_absent=0"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
