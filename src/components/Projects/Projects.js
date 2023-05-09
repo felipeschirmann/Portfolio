@@ -60,7 +60,7 @@ function Projects() {
               title="DSMovie"
               description=""
               ghLink="https://github.com/felipeschirmann/DSMovie"
-              demoLink="https://felipeschirmann-dsmovie.netlify.app/"
+              demoLink="https://site.dsmovie.felipeschirmann.dev.br"
             />
           </Col>
 
@@ -71,7 +71,7 @@ function Projects() {
               title="DSVendas"
               description=""
               ghLink="https://github.com/felipeschirmann/DSVendas"
-              demoLink="https://felipeschirmann-dsvendas.netlify.app/"
+              demoLink="https://site.dsvendas.felipeschirmann.dev.br"
             />
           </Col>
         </Row>
