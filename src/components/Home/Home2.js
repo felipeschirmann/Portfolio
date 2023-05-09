@@ -6,7 +6,7 @@ import {
   AiFillGithub,
   AiOutlineTwitter,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn, FaWhatsapp } from "react-icons/fa";
 
 function Home2() {
   return (
@@ -92,6 +92,17 @@ function Home2() {
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
+                </a>
+              </li>
+
+              <li className="social-icons">
+                <a
+                  href="https://api.whatsapp.com/send/?phone=5527992790505&text=Olá%2C+vi+o+seu+curriculo+e+quero+conversar.&type=phone_number&app_absent=0"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <FaWhatsapp />
                 </a>
               </li>
             </ul>
