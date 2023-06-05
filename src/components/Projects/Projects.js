@@ -7,6 +7,7 @@ import bds08 from "../../Assets/Projects/bds08.png";
 import bds09 from "../../Assets/Projects/bds09.png";
 import DSMovie from "../../Assets/Projects/dsmovie.png";
 import DSVendas from "../../Assets/Projects/dsvendas.png";
+import DSMeta from "../../Assets/Projects/dsmeta.png";
 
 function Projects() {
   return (
@@ -72,6 +73,17 @@ function Projects() {
               description=""
               ghLink="https://github.com/felipeschirmann/DSVendas"
               demoLink="https://site.dsvendas.felipeschirmann.dev.br"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={DSMeta}
+              isBlog={false}
+              title="DSMeta"
+              description=""
+              ghLink="https://github.com/felipeschirmann/DSMeta"
+              demoLink="https://site.dsmeta.felipeschirmann.dev.br/"
             />
           </Col>
         </Row>
