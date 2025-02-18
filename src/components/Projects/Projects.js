@@ -28,7 +28,7 @@ function Projects() {
               title="Bds07"
               description="A website developed in React to present a company's products, developing the following skills: Responsiveness and Bootstrap in the project"
               ghLink="https://github.com/felipeschirmann/bds07"
-              demoLink="https://bds07.felipeschirmann.dev.br"
+              demoLink="https://bds07.pages.dev"
             />
           </Col>
 
@@ -39,7 +39,7 @@ function Projects() {
               title="Bds08"
               description="A website developed in React with the objective of demonstrating how to consume the github api."
               ghLink="https://github.com/felipeschirmann/bds08"
-              demoLink="https://bds08.felipeschirmann.dev.br"
+              demoLink="https://bds08.pages.dev"
             />
           </Col>
 
