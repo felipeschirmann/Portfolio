@@ -28,7 +28,7 @@ function Projects() {
               title="Bds07"
               description="A website developed in React to present a company's products, developing the following skills: Responsiveness and Bootstrap in the project"
               ghLink="https://github.com/felipeschirmann/bds07"
-              demoLink="https://bds07.pages.dev"
+              demoLink="https://site.bds07.felipeschirmann.dev.br/"
             />
           </Col>
 
@@ -39,7 +39,7 @@ function Projects() {
               title="Bds08"
               description="A website developed in React with the objective of demonstrating how to consume the github api."
               ghLink="https://github.com/felipeschirmann/bds08"
-              demoLink="https://bds08.pages.dev"
+              demoLink="https://site.bds08.felipeschirmann.dev.br/"
             />
           </Col>
 
@@ -50,7 +50,7 @@ function Projects() {
               title="Bds09"
               description="Project Movieflix: Layout responsive, Routes, Request for Backend and LocalStorage, Context API in Button Login, Communicate components for rendering when new review is posting using events. User role member: ana@gmail.com password: 123456 User role visitor: bob@gmail.com password: 123456"
               ghLink="https://github.com/felipeschirmann/bds09"
-              demoLink="https://bds09.felipeschirmann.dev.br/"
+              demoLink="https://site.bds09.felipeschirmann.dev.br/"
             />
           </Col>
 
